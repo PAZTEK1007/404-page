@@ -27,12 +27,14 @@ img {
 }
 
 img:hover {
-    -ms-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1)
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2)
 }
 
 .redirect {
     position: relative;
     text-align: center;
+    top: -7em;
+
 }

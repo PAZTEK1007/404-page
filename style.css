@@ -20,9 +20,7 @@ p {
     font-size: 25;
     color: rgb(235, 243, 187);
 }
-.redirect {
-    text-align: center;
-}
+
 
 img {
     transition: transform .1s;
@@ -32,4 +30,9 @@ img:hover {
     -ms-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1)
+}
+
+.redirect {
+    position: relative;
+    text-align: center;
 }

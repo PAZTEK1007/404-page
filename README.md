@@ -9,8 +9,8 @@ Vous pouvez voir la page en action en suivant ce lien : [https://paztek1007.gith
 ## Structure du projet
 
 Le code source est organisé comme suit :
-`index.html` = Fichier de la structure de la page.
-`style.css` = Fichier style de la page.
-`404.png` = Fichier Image.
-`background.png` = Fichier Image.
+- `index.html` = Fichier de la structure de la page.
+- `style.css` = Fichier style de la page.
+- `404.png` = Fichier Image.
+- `background.png` = Fichier Image.
 
